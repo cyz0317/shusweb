@@ -1,0 +1,14 @@
+.swiper-pagination-fraction, .swiper-pagination-custom, .swiper-container-horizontal > .swiper-pagination-bullets {
+    /* bottom: 10px; */
+    left: 0;
+    width: 100%;
+}
+.swiper-container{
+  margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    /* overflow: hidden; */
+    list-style: none;
+    padding: 0;
+    z-index: 1;
+}
